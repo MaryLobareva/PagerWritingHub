@@ -228,10 +228,10 @@ p.span {
 	background: url(../img/arrow_blue.png) 121px 0;
 }
 .arrow .left:hover {
-	background: url(../img/arrow_blue.png) 2px 38px;
+	background: url(../img/arrow_blue.png) 2px 40px;
 }
 .arrow .right:hover {
-	background: url(../img/arrow_blue.png) 121px 38px;
+	background: url(../img/arrow_blue.png) 121px 40px;
 }
 .blue_button {
 	margin: 58px 0;
